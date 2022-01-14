@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "40259057394",
+    "project_id": "cevredostum-68339",
+    "storage_bucket": "cevredostum-68339.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40259057394:android:4d2f090eb6f956629fc26b",
+        "android_client_info": {
+          "package_name": "com.example.cevredostumapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40259057394-8csoqcu8ljs2kuo1bmnquii02gvu0m4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsk2LOKGl_CS9S6piH61g5KD9DG-6F3dY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40259057394-8csoqcu8ljs2kuo1bmnquii02gvu0m4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
